@@ -1,0 +1,17 @@
+{
+  "name": "Defender",
+  "short_name": "Defender",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "description": "A fast-paced arcade-style defender game",
+  "icons": [
+    {
+      "src": "assets/icon.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
